@@ -1,6 +1,7 @@
 # CIFAR10-CNN-Classification
 A TensorFlow-based CNN implementation for CIFAR-10 image classification, including data preprocessing, model training, performance evaluation, and result visualization. This project was developed as part of an Artificial Intelligence course to demonstrate the application of deep learning in computer vision.
 # Project Structure
+```
 CNN-CIFAR10/
 │
 ├── CNN.py                          # Main training & evaluation script
@@ -18,6 +19,9 @@ CNN-CIFAR10/
 └── figures/                       # Optional report figures
     ├── training_process.png
     └── sample_predictions.png
+```
+
+---
 # Environment Requirements
 Hardware (recommended)
 | Component | Requirement                                       |
